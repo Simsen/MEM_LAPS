@@ -2,6 +2,8 @@ Local Administrator Password Solution for Windows 10 on Microsoft Endpoint Manag
 
 Go to Reports > Endpoint analytics > Proactive remediations
 
+Create new Remediation script
+
 Insert Detection Script
 
 - Run this script using the logged on credentials: NO
