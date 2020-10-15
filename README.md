@@ -9,5 +9,6 @@ Insert Detection Script
 - Run script in 64-bit PowerShell: YES
 
 After some time - go to Device Status > Colums > Select: Pre-remediation detection output
+
 Password will show in this colum.
 
