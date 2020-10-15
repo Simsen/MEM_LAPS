@@ -1,3 +1,6 @@
+## Local Administrator Password Solution
+## Made by Jesper Voss and Simon Eriksen - Globeteam
+
 Add-type -AssemblyName System.Web
 
 $userName = "LAPSservice"
